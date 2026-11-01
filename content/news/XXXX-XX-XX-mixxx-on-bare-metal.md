@@ -31,7 +31,7 @@ This will be a massive step forward toward truly open-source DJing, but we need 
 
 <center><p>Phil Morse from Digital DJ Tips takling about the Klark Teknik Anima</p></center>
 
-Let's bring the device to life. We can however not rely on automated tools alone to build a rock-solid, low-latency ecosystem; we need real human talent. We need your help and are looking for spare-time embedded engineers, software architects, code reviewers, and hands-on testers alongside technical writers, marketing specialists, and usability researchers.
+Let's bring the device to life. We can however not rely on automated tools alone to build a rock-solid, low-latency ecosystem; we need real human talent. We need your help and are looking for spare-time embedded engineers, software architects, UI designers, code reviewers, and hands-on testers alongside technical writers, marketing specialists, and usability researchers.
 
 We will make it possible even for independent projects to partner officially with Mixxx e.V., which may allow them to use the Mixxx trademark.
 Does this resonate with you? Then say hello in our Zulip chat and help us build the open-source future of standalone DJing!
