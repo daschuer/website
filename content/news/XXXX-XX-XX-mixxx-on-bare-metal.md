@@ -21,7 +21,7 @@ Mixxx has never been against commercial hardware or enterprise projects. In fact
 [![Klark Teknik ANIMA housing prototype]({static}/images/news/AnimaHousing.jpg)]({static}/images/news/AnimaHousing.jpg)
 <center><p>Klark Teknik ANIMA housing prototype</p></center>
 
-Her is the full anoncement on [Behringer Facebook.com](https://www.facebook.com/Behringer/posts/the-dj-industry-is-about-to-change-foreverimagine-professional-dj-hardware-for-j/1706190557760683/)
+Here is the full announcement on [Behringer Facebook.com](https://www.facebook.com/Behringer/posts/the-dj-industry-is-about-to-change-foreverimagine-professional-dj-hardware-for-j/1706190557760683/)
 
 
 To make "Mixxx on Bare Metal" a first-class reality, we must however first establish our Embedded Roadmap. We need to conduct a thorough review of everything that has been done across existing Mixxx forks to identify what is ready to be upstreamed into the core project.
