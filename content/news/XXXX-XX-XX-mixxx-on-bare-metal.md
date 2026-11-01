@@ -12,7 +12,7 @@ For years, Mixxx supported the Raspberry Pi and friends as a popular platform fo
 We love these projects, and we want to support them as best as we can and help them step out of isolation. The Mixxx team and Mixxx e.V. are ready to offer the infrastructure, build systems, testing pipelines, and legal backbone to bring these efforts together. By unifying our efforts, we can break down the silos of individual forks, integrate them into a single upstream codebase, and ensure that anyone building an embedded DJ setup gets a rock-solid, officially supported build right out of the box.
 
 @Video(https://www.youtube.com/watch?v=u8P3oG6rvr0)
-<center><p>Philip Willoughby showing Mixxx running on his Denon DJ SC Live 4</p></center>
+<center><p>Phil Willoughby (DJ WillerZ) showing Mixxx running on his Denon DJ SC Live 4</p></center>
 
 These projects are more urgent than ever because the commercial DJ hardware landscape is moving in the wrong direction. Industry giants continue to rely on aggressive vendor lock-in, most recently highlighted by closed formats like AlphaTheta's OneLibrary / Device Library Plus, which rely on encrypted SQLite/SQLCipher databases simply to prevent users from freely moving their own metadata, cue points, and beatgrids across platforms.
 
